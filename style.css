@@ -1,0 +1,23 @@
+.row {
+    background: rgb(255, 255, 255);
+    height: 600px;
+}
+
+.container {
+    text-align: center;
+    padding-left: 0px 50px 0px 50px;
+}
+
+div h1 {
+    font-size: 32px;
+    text-transform: uppercase;
+    color:  #f55959;
+}
+
+/* #quiz {
+    display: none;
+}
+
+#score {
+    display: none;
+} */
